@@ -1,4 +1,4 @@
 <svg width="48" height="48" xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
-  <g><path d='M23,24 l-23,-23 l1,-1 l23,23 l23,-23 l1,1 l-23,23 l23,23 l-1,1 l-23,-23 l-23,23 l-1,-1 l23,-23 Z'></path></g>
+   xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <g><path d='M23,24 l-16,-16 l1,-1 l16,16 l16,-16 l1,1 l-16,16 l16,16 l-1,1 l-16,-16 l-16,16 l-1,-1 Z'></path></g>
 </svg>
